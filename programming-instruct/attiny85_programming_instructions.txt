@@ -1,0 +1,33 @@
+Device: ATtiny85
+Programming Method: ISP (In-System Programming)
+Programming Voltage: 5.0V
+(Note: Board has no voltage regulator; supply must be a stable 5.0V.)
+
+
+ISP Pin Mapping (Connector J3):
+RESET   -> J3 Pad 5
+SCK     -> J3 Pad 2
+MOSI    -> J3 Pad 4
+MISO    -> J3 Pad 1
+VCC     -> J3 Pad 3
+GND     -> J3 Pad 6
+
+
+Firmware File:
+micronucleus-1.11.hex
+
+
+Fuse Settings:
+Low Fuse:       0xE1    (PLL clock, no divide, long startup)
+High Fuse:      0xDD    (RESET enabled, SPI enabled, BOD-2.7V)
+Extended Fuse:  0xFE    (Self-programming enabled)
+
+
+Lock Bits:
+0xFF    (No lock bits set; ISP fully enabled)
+
+
+Instruct:
+1. Program Fuses.
+2. Flash micronucleus-1.11.hex using the J3 ISP header.
+3. Verify programmed firmware.
