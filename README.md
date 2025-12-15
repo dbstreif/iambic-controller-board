@@ -10,7 +10,9 @@ To build and install on your microcontroller, please use the Arduino IDE with th
 ### Compatibility
 Plug and play with VBand, MorseIT (IOS/Android), MorseKeyer Software (PC), and many other applications.
 
-![IMG_8415](https://github.com/user-attachments/assets/8373d34d-42c8-48fa-b347-3db874731b60)
+![IMG_1](https://github.com/dbstreif/iambic-controller-board/blob/main/assets/iambic-controller-board-top.png)
+![IMG_2](https://github.com/dbstreif/iambic-controller-board/blob/main/assets/iambic-controller-board-slant.png)
+![IMG_3](https://github.com/dbstreif/iambic-controller-board/blob/main/assets/iambic-controller-board-bot.png)
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
