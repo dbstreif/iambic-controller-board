@@ -1,7 +1,7 @@
 # Iambic Controller Custom Hardware
 ### (Morse Code Keyer Hardware Interface)
 
-A specifically designed PCB using ATtiny85 microcontroller that interfaces with an iambic CW keyer over TRS to USB.
+A board design using ATtiny85 microcontroller that interfaces with an iambic CW keyer over TRS to USB.
 This project provides hardware for the firmware project found here: [Iambic-Controller](https://github.com/dbstreif/iambic-controller)
 
 To build and install on your microcontroller, please use the Arduino IDE with the Digistump additional boards manager:
