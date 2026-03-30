@@ -13,19 +13,7 @@ Plug and play with VBand, MorseIT (IOS/Android), MorseKeyer Software (PC), and m
 ![IMG_1](https://github.com/dbstreif/iambic-controller-board/blob/main/assets/iambic-controller-board-top.png)
 ![IMG_2](https://github.com/dbstreif/iambic-controller-board/blob/main/assets/iambic-controller-board-slant.png)
 ![IMG_3](https://github.com/dbstreif/iambic-controller-board/blob/main/assets/iambic-controller-board-bot.png)
-
-<!DOCTYPE html>
-<html>
-<body>
-  
-  <iframe src="url video in google drive/preview" ></iframe>
-  
-  <!--aloow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1ocy6Hf0ZipwWTclOcQ86UAAeljgz8sle/preview" ></iframe>
-
-</body>
-</html>
+[Video of Device in Action](https://drive.google.com/file/d/1ocy6Hf0ZipwWTclOcQ86UAAeljgz8sle/view?usp=sharing)
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
